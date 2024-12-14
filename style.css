@@ -1,0 +1,20 @@
+/* style.css */
+
+h1{
+    text-align: center;
+    color: brown;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 80px;
+    background-color: aquamarine;
+}
+
+ul {
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+}
+
+a{
+    color: rgb(194, 62, 172);
+}
+
+
